@@ -1,0 +1,5 @@
+#Terminal Settings
+alias ls='ls -Gh'
+alias ll='ls -alG'
+export LSCOLORS="ExGxBxDxCxEgEdxbxgxcxd"
+export GREP_OPTIONS="--color"
