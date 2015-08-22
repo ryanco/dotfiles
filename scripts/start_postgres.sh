@@ -1,3 +1,3 @@
 #!/bin/bash
 
-launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+launchctl load /usr/local/opt/postgresql/homebrew.mxcl.postgresql.plist
